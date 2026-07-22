@@ -20,6 +20,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
+          ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           fetch-depth: 0 # Fetches history for all tags and commits
 
       - name: Setup Node.js
