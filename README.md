@@ -47,7 +47,15 @@ src="https://img.shields.io/github/followers/mariolargo?logo=github&style=for-th
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mariolargo&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
+### Projects Online
+
+_Social Media Feed REST API:_
+![Component Screenshot](path/to/screenshot.png)
+
+_Monolithic E-commerce w/payment:_
+![Component Screenshot](path/to/screenshot.png)
+
 ### Top Repositories Card
 
-<div width="100%" align="center" style="overflow:auto;padding: 20px;border: 2px solid #888;border-radius: 12px;"><a href="https://github.com/mariolargo/socialfeed-laravel-app" align="left"><img align="left" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=mariolargo&repo=socialfeed-laravel-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=10" /></a><a href="https://github.com/mariolargo/ecommerce-laravel" align="right"><img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=mariolargo&repo=ecommerce-laravel&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=10" /></a>
+<div width="100%" align="center" style="overflow:auto;padding: 20px;border: 2px solid #888;border-radius: 12px;"><a href="https://github.com/mariolargo/socialfeed-laravel-app" align="left"><img align="left" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=mariolargo&repo=socialfeed-laravel-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=60" /></a><a href="https://github.com/mariolargo/ecommerce-laravel" align="right"><img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=mariolargo&repo=ecommerce-laravel&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=60" /></a>
 </div>
