@@ -52,7 +52,7 @@ src="https://img.shields.io/github/followers/mariolargo?logo=github&style=for-th
 _Social Media Feed REST API:_
 ![Component Screenshot](path/to/screenshot.png)
 
-_Monolithic E-commerce w/payment:_
+_E-commerce w/payment:_
 ![Component Screenshot](path/to/screenshot.png)
 
 ### Top Repositories Card
