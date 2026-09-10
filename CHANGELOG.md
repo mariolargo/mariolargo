@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/mariolargo/mariolargo/compare/v1.0.0...v1.0.1) (2026-09-10)
+
+
+### Bug Fixes
+
+* Update repo name for Laravel ([2ffced3](https://github.com/mariolargo/mariolargo/commit/2ffced3d8ba4261150aff169ec79eadcaf53baf2))
+
 # 1.0.0 (2026-07-23)
 
 
