@@ -21,8 +21,8 @@
   - ✨ Back-end developer roles
   - ✨ Software Engineer roles
   - ✨ Building scalable APIs (RESTful, GraphQL, gRPC, Webhook)
-  - ✨ Node.js/PHP open-source projects
-  - ✨ Laravel/Symfony/Nest.js projects
+  - ✨ Node.js/Python/PHP open-source projects
+  - ✨ Nest.js/FastAPI/Laravel/Symfony projects
   - ✨ CMS Drupal/Wordpress projects
 - 🌱 I'm currently learning **AI Coding Assistants** and **AI Agents**
 - 💞️ I'm looking to collaborate on **FinTech** or **E-commerce** projects
