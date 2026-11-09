@@ -14,16 +14,16 @@
 
 - 🖥️ See my portfolio at [LinkedIn](http://www.linkedin.com/in/mario-largo)
 
-- 🚀 I'm currently working on [Laravel backend development](http://www.globant.com/)
-
+<!--  - 🚀 I'm currently working on [Laravel backend development](http://www.globant.com/) -->
 - 👀 I'm interested in
   - ✨ Full-stack developer roles
   - ✨ Back-end developer roles
   - ✨ Software Engineer roles
-  - ✨ Building scalable APIs (RESTful, GraphQL, gRPC, Webhook)
-  - ✨ Node.js/Python/PHP open-source projects
-  - ✨ Nest.js/FastAPI/Laravel/Symfony projects
-  - ✨ CMS Drupal/Wordpress projects
+  - ✨ Building scalable APIs (REST, GraphQL, gRPC, Webhook)
+  - ✨ Node.js/NestJS/WebSockets projects
+  - ✨ Python/FastAPI/AI projects
+  - ✨ React/Next.js/Angular/Vue projects
+  - ✨ CMS Drupal/Laravel projects
 - 🌱 I'm currently learning **AI Coding Assistants** and **AI Agents**
 - 💞️ I'm looking to collaborate on **FinTech** or **E-commerce** projects
 - 📫 You can reach me at [mlargo@yahoo.com](mailto:mlargo@yahoo.com), [largo.mario@gmail.com](mailto:largo.mario@gmail.com)
