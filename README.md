@@ -80,7 +80,7 @@
 <td><a href="https://jsonapi.org/" target="_blank" rel="noreferrer"><img src="https://jsonapi.org/alt-favicons/android-chrome-36x36.png" alt="JSON:API" title="JSON:API" width="36" height="36" /></a></td>
 <td><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a></td>
 <td><a href="https://www.w3.org/TR/soap12-part1/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:700/1*HFJQEQuEFOhefQehwunLDg.jpeg" alt="SOAP" title="SOAP" width="36" height="36" /></a></td>
-<td><a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://grpc.io/img/logos/grpc-logo.png" alt="gRPC" title="gRPC" height="36" style="background: #244c5a"/></a></td>
+<td><a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="/assets/icons/grpc.svg" alt="gRPC" title="gRPC" width="36" height="36" /></a></td>
 <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/500px-WebSocket_colored_logo.svg.png" alt="WebSockets" title="WebSockets" width="36" height="36" /></a></td>
 <td><a href="https://www.openapis.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openapiinitiative/06BA539" alt="OpenAPI" title="OpenAPI" width="36" height="36" /></a></td>
 <td><a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/swagger/085EA2D" alt="Swagger" title="Swagger" width="36" height="36" /></a></td>
@@ -155,8 +155,20 @@
 
 <h3 align="left">👥 Portfolios</h3>
 
-<p align="left"> 
-<a href="https://www.github.com/mariolargo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://gitlab.com/mlargo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://bitbucket.org/mariolong/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://bitbucket.org/favicon.ico" /> <img src="https://bitbucket.org/favicon.ico" width="32" height="32" alt="Bitbucket" title="Bitbucket" /> </picture> </a> </p>
+<p align="left">
+
+<table>
+<tbody>
+<tr>
+<td><a href="https://www.github.com/mariolargo" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="NodeJS | Python | React | Angular | Vue" /></picture></a>
+</td>
+<!--<td><a href="https://gitlab.com/mlargo" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="Laravel | Symfony | Drupal" /></picture></a></td>
+<td><a href="https://bitbucket.org/mariolong/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="" /><source media="(prefers-color-scheme: light)" srcset="https://bitbucket.org/favicon.ico" /><img src="https://bitbucket.org/favicon.ico" width="32" height="32" alt="Bitbucket" title="Java | Sprint Boot | C++" /></picture></a></td>-->
+</tr>
+</tbody>
+</table>
+
+</p>
 <a href="https://www.github.com/mariolargo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mariolargo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
